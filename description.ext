@@ -1,0 +1,8 @@
+onLoadMission = "LFC";
+onLoadIntroTime = 1;
+author="BangaBob";
+OnLoadName = "Live Feed Control";
+loadScreen =  "LFC\h8erlogo.jpg";
+respawn = "BASE";
+respawnDelay = 5;
+respawnDialog = false;
